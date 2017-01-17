@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 91fcf7eeedd206b409ccce4fc8da215e
+timeCreated: 1457221095
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FreeArt_GunConstructionKit_v03_show_2
+    21300002: FreeArt_GunConstructionKit_v03_show_3
+    21300004: FreeArt_GunConstructionKit_v03_show_4
+    21300006: FreeArt_GunConstructionKit_v03_show_5
+    21300008: FreeArt_GunConstructionKit_v03_show_6
+    21300010: FreeArt_GunConstructionKit_v03_show_7
+    21300012: FreeArt_GunConstructionKit_v03_show_8
+    21300014: FreeArt_GunConstructionKit_v03_show_9
+    21300016: FreeArt_GunConstructionKit_v03_show_13
+    21300018: FreeArt_GunConstructionKit_v03_show_14
+    21300020: FreeArt_GunConstructionKit_v03_show_15
+    21300022: FreeArt_GunConstructionKit_v03_show_16
+    21300024: FreeArt_GunConstructionKit_v03_show_17
+    21300026: FreeArt_GunConstructionKit_v03_show_18
+    21300028: FreeArt_GunConstructionKit_v03_show_19
+    21300030: FreeArt_GunConstructionKit_v03_show_20
+    21300032: FreeArt_GunConstructionKit_v03_show_21
+    21300034: FreeArt_GunConstructionKit_v03_show_22
+    21300036: FreeArt_GunConstructionKit_v03_show_23
+    21300038: FreeArt_GunConstructionKit_v03_show_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FreeArt_GunConstructionKit_v03_show_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 148
+        width: 260
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 20.5}
+        - {x: -6, y: 19.5}
+        - {x: 20, y: 20.5}
+        - {x: 21, y: 23.5}
+        - {x: 22, y: 40.5}
+        - {x: -83, y: 40.5}
+        - {x: -130, y: 15.5}
+        - {x: -130, y: -22.5}
+        - {x: -126, y: -40.5}
+        - {x: 83, y: -40.5}
+        - {x: 130, y: -11.5}
+        - {x: 130, y: 16.5}
+        - {x: 43, y: 28.5}
+    - name: FreeArt_GunConstructionKit_v03_show_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 420
+        width: 115
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 33.5}
+        - {x: -57.5, y: 12.5}
+        - {x: -57.5, y: -33.5}
+        - {x: 14.5, y: -33.5}
+        - {x: 57.5, y: -27.5}
+        - {x: 57.5, y: 21.5}
+        - {x: 47.5, y: 33.5}
+    - name: FreeArt_GunConstructionKit_v03_show_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 575
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 18.5}
+        - {x: -31.5, y: 7.5}
+        - {x: -36.5, y: -2.5}
+        - {x: -36.5, y: -18.5}
+        - {x: 6.5, y: -18.5}
+        - {x: 36.5, y: -9.5}
+        - {x: 36.5, y: 18.5}
+    - name: FreeArt_GunConstructionKit_v03_show_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 498
+        width: 91
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 18}
+        - {x: -45.5, y: -18}
+        - {x: -4.5, y: -18}
+        - {x: 45.5, y: -5}
+        - {x: 45.5, y: 18}
+    - name: FreeArt_GunConstructionKit_v03_show_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 756
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 20}
+        - {x: -37, y: 11}
+        - {x: -37, y: -20}
+        - {x: 2, y: -20}
+        - {x: 37, y: -5}
+        - {x: 37, y: 20}
+    - name: FreeArt_GunConstructionKit_v03_show_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 695
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 20.5}
+        - {x: -32, y: 19.5}
+        - {x: -37, y: -2.5}
+        - {x: -37, y: -19.5}
+        - {x: -36, y: -20.5}
+        - {x: -20, y: -20.5}
+        - {x: 25, y: -2.5}
+        - {x: 37, y: 6.5}
+        - {x: 37, y: 20.5}
+    - name: FreeArt_GunConstructionKit_v03_show_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 628
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17.5}
+        - {x: -29, y: -2.5}
+        - {x: -29, y: -17.5}
+        - {x: -7, y: -17.5}
+        - {x: 29, y: 1.5}
+        - {x: 29, y: 17.5}
+    - name: FreeArt_GunConstructionKit_v03_show_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 197
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 31.5}
+        - {x: -95.5, y: 29.5}
+        - {x: -98.5, y: 17.5}
+        - {x: -98.5, y: -31.5}
+        - {x: 23.5, y: -31.5}
+        - {x: 63.5, y: -25.5}
+        - {x: 98.5, y: 1.5}
+        - {x: 98.5, y: 30.5}
+        - {x: 97.5, y: 31.5}
+    - name: FreeArt_GunConstructionKit_v03_show_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 567
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 30.5}
+        - {x: -29, y: 19.5}
+        - {x: -28, y: 16.5}
+        - {x: -44, y: -3.5}
+        - {x: -44, y: -30.5}
+        - {x: 32, y: -30.5}
+        - {x: 44, y: -20.5}
+        - {x: 44, y: 18.5}
+        - {x: 33, y: 30.5}
+    - name: FreeArt_GunConstructionKit_v03_show_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 686
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -30, y: 24.5}
+        - {x: -39, y: 21.5}
+        - {x: -39, y: 5.5}
+        - {x: -35, y: 3.5}
+        - {x: -39, y: -8.5}
+        - {x: -39, y: -20.5}
+        - {x: -33, y: -25.5}
+        - {x: -9, y: -25.5}
+        - {x: 39, y: -22.5}
+        - {x: 39, y: 13.5}
+        - {x: 33, y: 25.5}
+    - name: FreeArt_GunConstructionKit_v03_show_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 497
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 19}
+        - {x: -28, y: 17}
+        - {x: -31, y: 12}
+        - {x: -31, y: -19}
+        - {x: -11, y: -19}
+        - {x: 31, y: -6}
+        - {x: 31, y: 19}
+    - name: FreeArt_GunConstructionKit_v03_show_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 408
+        width: 201
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 35.5}
+        - {x: -100.5, y: 14.5}
+        - {x: -100.5, y: -35.5}
+        - {x: 100.5, y: -35.5}
+        - {x: 100.5, y: 27.5}
+        - {x: 54.5, y: 35.5}
+    - name: FreeArt_GunConstructionKit_v03_show_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 147
+        width: 258
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: 32.5}
+        - {x: 70, y: 36.5}
+        - {x: -69, y: 36.5}
+        - {x: -129, y: 3.5}
+        - {x: -129, y: -34.5}
+        - {x: -104, y: -36.5}
+        - {x: 57, y: -36.5}
+        - {x: 129, y: -15.5}
+        - {x: 129, y: 24.5}
+    - name: FreeArt_GunConstructionKit_v03_show_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 37
+        width: 161
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 35.5}
+        - {x: -80.5, y: -0.5}
+        - {x: -80.5, y: -34.5}
+        - {x: -79.5, y: -35.5}
+        - {x: -32.5, y: -35.5}
+        - {x: 70.5, y: -0.5}
+        - {x: 80.5, y: 11.5}
+        - {x: 80.5, y: 24.5}
+        - {x: 75.5, y: 35.5}
+    - name: FreeArt_GunConstructionKit_v03_show_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 329
+        width: 229
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -114.5, y: 7.5}
+        - {x: -114.5, y: -25.5}
+        - {x: -82.5, y: -25.5}
+        - {x: -35.5, y: -21.5}
+        - {x: 114.5, y: 8.5}
+        - {x: 114.5, y: 25.5}
+    - name: FreeArt_GunConstructionKit_v03_show_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 249
+        width: 245
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 26.5}
+        - {x: -122.5, y: 4.5}
+        - {x: -122.5, y: -26.5}
+        - {x: -50.5, y: -26.5}
+        - {x: 122.5, y: 1.5}
+        - {x: 122.5, y: 26.5}
+    - name: FreeArt_GunConstructionKit_v03_show_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 502
+        width: 206
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 31}
+        - {x: -102, y: 1}
+        - {x: -103, y: 1}
+        - {x: -103, y: -31}
+        - {x: -23, y: -31}
+        - {x: 7, y: -27}
+        - {x: 103, y: -9}
+        - {x: 103, y: 27}
+        - {x: 41, y: 31}
+    - name: FreeArt_GunConstructionKit_v03_show_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 614
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30.5}
+        - {x: -54, y: -4.5}
+        - {x: -54, y: -30.5}
+        - {x: 36, y: -30.5}
+        - {x: 54, y: -13.5}
+        - {x: 54, y: 25.5}
+        - {x: 24, y: 30.5}
+    - name: FreeArt_GunConstructionKit_v03_show_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 688
+        width: 124
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 8}
+        - {x: 57, y: 9}
+        - {x: 59, y: 11}
+        - {x: 59, y: 19}
+        - {x: 58, y: 23}
+        - {x: -22, y: 23}
+        - {x: -62, y: 10}
+        - {x: -62, y: -23}
+        - {x: 10, y: -23}
+        - {x: 59, y: -16}
+        - {x: 62, y: -7}
+        - {x: 62, y: 6}
+        - {x: 57, y: 9}
+    - name: FreeArt_GunConstructionKit_v03_show_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 754
+        width: 108
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23}
+        - {x: -54, y: 5}
+        - {x: -54, y: -23}
+        - {x: -31, y: -23}
+        - {x: -16, y: -20}
+        - {x: 54, y: -4}
+        - {x: 54, y: 23}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

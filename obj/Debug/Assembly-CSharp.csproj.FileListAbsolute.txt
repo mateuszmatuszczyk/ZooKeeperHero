@@ -1,0 +1,84 @@
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mateusz\Desktop\ZooKeeperHero\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mateusz\Desktop\ZooKeeperHero\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ZooKeeperHero\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero\obj\Debug\Assembly-CSharp.pdb
+C:\Users\samq2_000\Desktop\zooKepperHero\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\samq2_000\Desktop\zooKepperHero\obj\Debug\Assembly-CSharp.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\obj\Debug\Assembly-CSharp.pdb
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\UnityEditor.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\UnityEngine.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\UnityEngine.xml
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\UnityEditor.xml
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\samq2_000\Desktop\zooKepperHero\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mateusz\Desktop\ITP\ZooKeeperHero v.08.03.2016\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mateusz\Desktop\ZooKeeperHero_07.04.2016\Temp\bin\Debug\UnityEngine.Networking.xml

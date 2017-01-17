@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{17E1BF13-3F58-A1F9-F659-78D1410AB4CC}") = "ZooKeeperHero_07.04.2016", "Assembly-CSharp.csproj", "{3A94C367-6021-4736-BB48-DDA15590FE55}"
+EndProject
+Project("{17E1BF13-3F58-A1F9-F659-78D1410AB4CC}") = "ZooKeeperHero_07.04.2016", "Assembly-UnityScript.unityproj", "{CC322489-BDDF-3726-3460-27AA788F72AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A94C367-6021-4736-BB48-DDA15590FE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A94C367-6021-4736-BB48-DDA15590FE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A94C367-6021-4736-BB48-DDA15590FE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A94C367-6021-4736-BB48-DDA15590FE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC322489-BDDF-3726-3460-27AA788F72AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC322489-BDDF-3726-3460-27AA788F72AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC322489-BDDF-3726-3460-27AA788F72AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC322489-BDDF-3726-3460-27AA788F72AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
